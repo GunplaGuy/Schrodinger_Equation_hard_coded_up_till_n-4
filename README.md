@@ -1,4 +1,4 @@
-# Schrodinger_Equation-[Hard-coded-up-till-n-4]
+# Schrodinger_Equation [Hard coded up till n 4]
 A module that calculates the values for the normalized Angular Wave Function (Y)  and the Radial Wave Function (R)
 
 Required inputs for Y are Magnetic Quantum number (m), Angular Quantum number (l), theta (𝜃), and phi (𝜙). 
